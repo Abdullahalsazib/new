@@ -1,0 +1,24 @@
+body { background-color: #83C3CC;
+    font-size: 15pt;
+}
+h1{ 
+  color: green;
+  background-color: thistle;
+  text-align: center;
+  border:1cm solid greenyellow;
+  
+}
+h2{ margin-left: 5cm;
+}
+p{color: #D500FF;
+  font-size: 23px;
+}
+.box{color: blue; 
+  border: 0.1cm solid green;
+}
+.ui {color:red;
+    font-size: 0.6cm;
+    
+    border-radius :1cm;
+   background-color: thistle;
+}
